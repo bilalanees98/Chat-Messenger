@@ -1,0 +1,10 @@
+Hi Haider|1
+Hi Armughan|1
+How are you?|1
+I'm fine wbu?|1
+I'm fine too!|1
+How's the DB going? :D|2
+Done with most of it. what about the GUI?|2
+Working on it :(|1
+Oh good luck then!|1
+Thanks!|1
